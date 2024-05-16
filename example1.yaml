@@ -27,15 +27,15 @@ logger:
 
 api:
   encryption:
-    key: "U8ZCy8F050pbAD2CN+aQvKBdLO8jnyDmPm/sqGxktrQ="
+    key: ""
 
 ota:
-  password: "0f59b700bacb71a95f4b8d22f86ff012"
+  password: ""
 
 # Setup your WiFi password
 wifi:
-  ssid: "Home"
-  password: "025712494"
+  ssid: ""
+  password: ""
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     ssid: "AC-wifi"
